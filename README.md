@@ -28,6 +28,7 @@ The patch applies to the ROM from set 2 (the version released on Neo-Geo AES), a
 - Removed the score and hi-score display. Let’s be honest: NO ONE plays Magician Lord for the score — especially not a modded version! The remaining lives counter has been moved to the top-left corner to maximize space for those gorgeous graphics
 
 #### Translation
+- Complete French translation of the game based on the Japanese script
 - Complete retranslation of the English version, known for its infamous lines (“Again changes to hell”), to better match the Japanese script
 - Fear not, fans of the Engrish original translation: at the title screen, you can switch between the two translations by pressing `D`
 
@@ -39,7 +40,7 @@ The patch applies to the ROM from set 2 (the version released on Neo-Geo AES), a
 > **Note:** I won’t go into details on how to use an IPS patch, gzip a file, or anything technical — Google and AI are your friends ;)
 
 #### Requirements
-Make sure you have the ROMs `maglord.zip` and `maglordh.zip`, then extract the files `maglord_p1.ips` and `maglord_s1.ips` from the patch archive (choose the folder according to the desired language).
+Make sure you have the ROMs `maglord.zip` and `maglordh.zip`, then extract the files `maglord_p1.ips` and `maglord_s1.ips` from the patch archive (choose the folder according to the desired languages).
 
 1. Create a folder named `maglord_acfh`
 2. Unzip `maglord.zip`, patch `005-s1.s1` with `maglord_s1.ips`, and place the resulting file in `maglord_acfh`
