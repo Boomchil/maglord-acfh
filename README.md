@@ -14,17 +14,18 @@ The patch applies to the ROM from set 2 (the version released on Neo-Geo AES), a
 - Invincibility time doubled after being hit
 - Global level timer removed (normally hidden), which used to spawn an invincible monster after a few minutes
 - Disabled automatic monster spawns when staying in the same area for several seconds
-- You now need to get hit twice to lose one power level. This is visually represented by the power cell cracking after the first hit before disappearing.
-- When transformed, pressing `C` allows you to return to Elta’s base form while keeping the extra HP.
+- You now need to get hit twice to lose one power level. This is visually represented by the power cell cracking after the first hit before disappearing
+- You can drop off ladders by pressing the jump button
+- When transformed, pressing `C` allows you to return to Elta’s base form while keeping the extra HP
 - In his base form, Elta can now fire 4 magic missiles simultaneously on screen (2 in the original)
 - Reduced HP for certain enemies that required too many hits to defeat
-- Removed the time limit for Gal Agiese’s dialogue before each boss, allowing you to enjoy the full music. Press any button to skip directly to the boss.
+- Removed the time limit for Gal Agiese’s dialogue before each boss, allowing you to enjoy the full music. Press any button to skip directly to the boss
 
 #### Visuals
 - The power gauge design has been completely redone to match the HP bar’s style
 - Realignment of the orbs at the top of the screen
 - Improved character shadows for better contrast and consistency
-- Removed the score and hi-score display. Let’s be honest: NO ONE plays Magician Lord for the score — especially not a modded version! The remaining lives counter has been moved to the top-left corner to maximize space for those gorgeous graphics.
+- Removed the score and hi-score display. Let’s be honest: NO ONE plays Magician Lord for the score — especially not a modded version! The remaining lives counter has been moved to the top-left corner to maximize space for those gorgeous graphics
 
 #### Translation
 - Complete retranslation of the English version, known for its infamous lines (“Again changes to hell”), to better match the Japanese script
