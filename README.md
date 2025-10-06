@@ -1,3 +1,5 @@
+## MAGICIAN LORD - AGAIN CHANGES FROM HELL ROMHACK
+
 Magician Lord is a fantastic game, featuring outstanding graphics and music for its time. Unfortunately, it suffers from an extremely high difficulty level, the result of last-minute changes made to increase profitability for arcade operators.
 
 The goal of this patch is to rebalance the difficulty to bring it closer to the average difficulty of 16-bit era games, so that everyone can enjoy this excellent title without having to spend dozens of hours on it — time being the most precious resource for retro gamers. It’s also a good warm-up for those who wish to later take on the brutality of the original :)
