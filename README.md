@@ -4,7 +4,7 @@ Magician Lord is a fantastic game, featuring outstanding graphics and music for 
 
 The goal of this patch is to rebalance the difficulty to bring it closer to the average difficulty of 16-bit era games, so that everyone can enjoy this excellent title without having to spend dozens of hours on it — time being the most precious resource for retro gamers. It’s also a good warm-up for those who wish to later take on the brutality of the original :)
 
-The patch applies to the ROM from set 2 (the version released on Neo-Geo AES), as it offers a more console-like experience: there’s an introduction to the story, and each death sends you back to the last checkpoint.
+The patch applies to the ROM from set 1 (the version released on Neo-Geo AES), as it offers a more console-like experience: there’s an introduction to the story, and each death sends you back to the last checkpoint.
 
 ### List of Changes
 
