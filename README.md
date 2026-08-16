@@ -1,3 +1,6 @@
+> **Note:** This repository is for archival purposes only and won't be updated. To use the latest patch, please go to [my romhacks page](https://boomchil.github.io/neo-geo-romhacks/)
+
+
 ## MAGICIAN LORD - AGAIN CHANGES FROM HELL ROMHACK
 
 Magician Lord is a fantastic game, featuring outstanding graphics and music for its time. Unfortunately, it suffers from an extremely high difficulty level, the result of last-minute changes made to increase profitability for arcade operators.
